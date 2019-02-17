@@ -1,3 +1,3 @@
-## Etch-A-Sketch - Odin Projectd 
+## Etch-A-Sketch - Odin Project 
 
 https://www.theodinproject.com/lessons/etch-a-sketch-project
