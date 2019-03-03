@@ -1,4 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+}
 
-.container {
-    // styling for container div goes here 
+.grid-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+div {
+    border: 1px solid black;
+    height: 50px;
+    width: 50px;
 }

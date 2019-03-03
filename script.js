@@ -1,7 +1,7 @@
 
 
 
-const container = document.querySelector('.container');
+const container = document.querySelector('.grid-container');
 
 
 for (let i = 0; i < 16; i++) {
